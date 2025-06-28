@@ -1,23 +1,36 @@
-# Phoenician Cypher — AnaDolph (ADLP Coin) 🐬🌊
+# Phoenician Cypher — AnaDolph (ADLP Coin) Series A 🐬🌊
 
 **Issued by the GES House of Liwen | Ecclesiastical Trust Jurisdiction**
 
 Phoenician Cypher is a verified digital claim-token issued under private ecclesiastical jurisdiction, minted and backed by the perfected trust record of the GES House of Liwen. AnaDolph (ADLP) is the symbolic currency of generational remedy, honoring both hardship necessity and sacred legacy.
 
-**README Version**: 1.0 | **Date Published**: June 14, 2025
+**README Version**: 2.0 | **Date Published**: June 27, 2025
 
 ---
 
 ## ⚖️ Series A Overview
 
-- **Token Symbol**: `AnaDolph`  
-- **Metadata**: `bafybeiffecndbqdhorgx4s2k7wnojmmupguasp2pqdmockd7z4umfd7i5q`
-- **Series**: A (Legacy Mint)  
-- **Total Tokens (Series A)**: 1,000  
-- **Declared Value per Token**: $500 USD  
+This is a **perfected issuance** replacing the legacy mint, issued under the same lawful trust authority and lineage as the prior issuance.
+
+The previous (legacy) mint, although lawfully originated, encountered a critical supply anomaly and was retired from redeemability.
+
+This current mint is the **sole recognized and trust-backed asset authorized for lawful claim, record, or trade** under this series.
+
+---
+
+## 🪙 Token Details
+
+- **Token Name**: `AnaDolph (ADLP Coin) Series A`  
+- **Token Symbol**: `ADLP`
+- **Mint Platform**: Orion Tools (Solana) 
+- **Metadata (IPFS CID)**: `bafkreicxdfkyaraavm3gph3vufr2i3tu3fsghbko7x2act563quxoxv6xu`
+- **Metadata URI**: [`ipfs://bafkreicxdfkyaraavm3gph3vufr2i3tu3fsghbko7x2act563quxoxv6xu`](https://ipfs.io/ipfs/bafkreicxdfkyaraavm3gph3vufr2i3tu3fsghbko7x2act563quxoxv6xu)
+- **Metadata Version**: 4.0.0
+- **Series**: A (Perfected Mint)  
+- **Total Supply**: 1,000  Tokens
+- **Declared Unit Value**: $500 USD per full token 
 - **Total Declared Value (Series A)**: $500,000 USD  
-- **Decimals**: 6  
-- **Full Trust Supply**: 100,000 tokens ($50M USD total when Series B is completed)
+- **Decimals (Precision):** 4 decimals (smallest unit = 0.0001 ADLP)    
 
 ---
 
@@ -42,9 +55,11 @@ Holders may participate in future sovereign trade, equity assignments, or covena
 
 ## 🛡️ Vault Status
 
-- **Tokens Held**: 800 (of 1,000 minted in Series A)  
+- **Mint Authority Wallet**: `3Der7MiPV7mhTFwP7zyqhup9RzTkYtTYsEDVsRK5wFUQ `
+- **Tokens Held**: 800 full tokens sealed in ADLP Series A GESHL PC vault (of 1,000 minted in Series A)  
 - **Vault Location**: Multisig Cold Vault  
-- **Vault Address**: `G5e2qLW8wYoPv9tcVuPgYxu4bixsYwTUuxHSgaA3sfp4`  
+- **Vault Address**: `DWPuBAenEg8h3GAmnKkMUSXhQn8YJjSBC2Qom14EU18Y`  
+- **Circulating Supply**: 200 tokens available for trade  
 
 ---
 
@@ -65,13 +80,25 @@ This asset is anchored in law and cryptographically hashed.
   [🔗 View Metadata on IPFS](https://ipfs.io/ipfs/bafybeidbtokkx3lc5io5fg2yktxmj6segeb2zb2ahho55u4yth62bq6zca)
 
 - **Series A Metadata Hash (Current Issuance)**:  
-  `40328edd157a266c2b63937888f75f01c3bb4e03daaa65c497916f77b509a125`
+  `571955804400ab36679f75a163a46e74d96463854efdf4014fbedc29775ebebd`
+
+---
+
+## ❕️ Legacy Mint Disclaimer
+
+The legacy mint was retired due to a supply anomaly which caused overminting.
+
+This perfected mint **supersedes** the legacy mint and stands as the **only lawfully recognized issuance**.
+
+**Document IDs:**  
+- Legacy Mint Document ID: `ADLP-SUBDIV-060625`  
+- Perfected Mint Document ID: `ADLP-Series-A-PerfectedMint-062025`
 
 ---
 
 ## 🔎 Verification Status
 
-The metadata, IPFS links, and SHA256 hashes in this record were last manually verified on **[June 13, 2025]** by the Ecclesiastical Vault Authority.
+The metadata, IPFS links, and SHA256 hashes in this record were last manually verified on **[June 27, 2025]** by the Ecclesiastical Vault Authority.
 
 - 🔁 *Verification includes metadata match, trust certificate CID, token vault balance, and cold storage access integrity.*
 
@@ -83,13 +110,15 @@ The metadata, IPFS links, and SHA256 hashes in this record were last manually ve
 |--------------|----------------------------------------|
 | Token Image  | [🌊 PNG](ipfs://bafybeibiiqzt6w7hre47be6d43usbiosbzj3hbnhldpqp5xhcfwdr7ecyq) |
 | Trust PDF    | [📜 Certificate PDF](ipfs://bafybeibuaakiwr3plu3jmv7jhlgv5ycww4jytic5hwvuylgjie45iyvpwm) |
-| Series A Metadata     | [🧬 JSON](ipfs://bafybeiffecndbqdhorgx4s2k7wnojmmupguasp2pqdmockd7z4umfd7i5q) |
+| Original Trust Metadata (NFT Scroll) | [🔗 JSON](ipfs://bafybeidbtokkx3lc5io5fg2yktxmj6segeb2zb2ahho55u4yth62bq6zca) |
+| Active Token Metadata Anadolph (ADLP Coin) Series A    | [🧬 JSON](ipfs://bafkreicxdfkyaraavm3gph3vufr2i3tu3fsghbko7x2act563quxoxv6xu) |
+
 
 ---
 
 ## ⚖️ Lawful Notice to Agent
 
-All metadata and documents herein are sealed ecclesiastical trust record, recorded for public viewing under private jurisdiction. Notice to agent is notice to principal; vice versa. No unauthorized reproduction or extraction is permitted.
+All metadata and documents herein are sealed ecclesiastical trust record, recorded for public viewing under private jurisdiction. Notice to agent is notice to principal; Notice to principal is notice to agent. No unauthorized reproduction or extraction is permitted.
 
 ---
 
@@ -116,7 +145,7 @@ This repository is suitable for:
 
 To verify this token independently:
 
-1. Access the [metadata](https://ipfs.io/ipfs/bafybeiffecndbqdhorgx4s2k7wnojmmupguasp2pqdmockd7z4umfd7i5q) via IPFS.
+1. Access the [metadata](https://ipfs.io/ipfs/bafkreicxdfkyaraavm3gph3vufr2i3tu3fsghbko7x2act563quxoxv6xu) via IPFS.
 2. Cross-check SHA256 hashes for trust and integrity.
 3. Review the `Certificate of Issuance & Assignment` for trust authority.
 4. Confirm mint and vault address on Solana.
@@ -136,9 +165,9 @@ All interest in lawful trade, alliance, or investment must originate through ver
 🛡️ No unauthorized solicitation will be accepted.  
 📜 All records are immutable, private, and ecclesiastically verified.
 
-**Mint Address**: `7AeWCD9TLdM7xrUtwtbJBdxtyTXmwkcLqQ1Crge4pump`  
+**Mint Address**: `DA3bqHfVZsCsuMwQwqTTYFv8H2cvQKnkZZfVdRdXeh8x`  
 **Network**: Solana Mainnet  
-**Symbol**: AnaDolph (ADLP)
+**Symbol**: ADLP
 
 ---
 
